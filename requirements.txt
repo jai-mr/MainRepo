@@ -1,0 +1,11 @@
+git+https://github.com/albumentations-team/albumentations.git
+matplotlib
+numpy
+opencv-python
+requests
+seaborn
+torch
+torchvision
+torchsummary
+torch-lr-finder
+tqdm
